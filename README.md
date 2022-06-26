@@ -1,4 +1,4 @@
-# Bölüm sonu ödevi 2 Ödevi
+# Bölüm sonu 2 Ödevi
 
 ## Gaffari Yılmaz
 
