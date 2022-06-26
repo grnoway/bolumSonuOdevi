@@ -4,4 +4,4 @@
 
 html 3. ödevi
 
-![ödev3](ödev3görsel.png)
+![ödev3](images/ödev3görsel.png)
